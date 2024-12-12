@@ -1,0 +1,1 @@
+this project aim is to recognise the actions of the sport which was done on the sport tennis.Using the deep learning techniques  and computer vision daone this project which show the actions of the tennis images.here for this project i ahve used the neural network techniques.
